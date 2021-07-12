@@ -1,1 +1,1 @@
-# DanceManagementSystem
+# Dance Management System
